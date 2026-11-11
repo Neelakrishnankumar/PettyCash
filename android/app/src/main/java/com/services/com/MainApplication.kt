@@ -1,4 +1,4 @@
-package com.pettycash
+package com.services.bex
 
 import android.app.Application
 import com.facebook.react.PackageList

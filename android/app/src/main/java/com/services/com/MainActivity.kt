@@ -1,4 +1,4 @@
-package com.pettycash
+package com.services.bex
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
